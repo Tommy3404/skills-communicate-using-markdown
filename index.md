@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Go to School
+- [ ] Go to Lunch
+- [x] Go to practice
